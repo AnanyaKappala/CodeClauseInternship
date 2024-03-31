@@ -1,0 +1,15 @@
+Project ID - #CC3601
+Project Title - Personality Prediction System via CV Analysis
+Internship Domain - Artificial Intelligence Intern
+Project Level - Golden Level
+Assigned By- CodeClause Internship
+Project Details-
+Aim -
+Develop an AI-driven system that predicts an individual's personality traits by analyzing their Curriculum Vitae (CV) or resume.
+Description-
+This project aims to create a sophisticated personality prediction system that utilizes natural language processing (NLP) and machine learning techniques to analyze the textual content of CVs. The system will extract relevant information from resumes, such as educational background, work experience, skills, and achievements. By employing sentiment analysis, linguistic pattern recognition, and personality trait models, the system will predict personality characteristics like extroversion, conscientiousness, openness, agreeableness, and neuroticism.
+Technologies-
+Python, OpenCV, Deep reinforcement learning frameworks
+You can use other technologies that you know.
+What You Learn-
+Computer vision, reinforcement learning.

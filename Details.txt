@@ -1,0 +1,18 @@
+Instructions-
+1. There are no technology restrictions for project development. You are free to use any technology you are familiar with..
+2. Ensure timely submission of projects before the deadlines.
+3. There are no restrictions on completing entry-level and intermediate projects.
+4. Avoid copying and pasting code. Be original in your submissions.
+5. Upon completion, submit your all projects on app.internship.codeclause.com.
+
+Eligibility Criteria:
+1. Completion of one project makes you eligible for a certificate.
+2. Completion of two projects (entry-level and intermediate) qualifies you for a certificate and Letter of Recommendation (LoR).
+3. Completion of two projects (entry-level and intermediate) with one golden project makes you eligible for swags verification.
+4. It only eligibles to you for swags verification it doesn't means that you are eligible for swags.
+5. There are two golden projects you need to do any of them.
+6. There is not technology restrictions for projects.
+7. If project found copied then you are eligible for swgas.
+8. If golden project needs to be dynamic and proper working.
+9. Console based projects are not eligible for swags. Proper Ui is required to eligible for swags.
+10. Needs to post video of demo of golden project on LinkedIn and it should includes only the output of project no need to share the code.
